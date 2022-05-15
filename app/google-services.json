@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660633773180",
+    "project_id": "dynamic-pdf-viewer-1be5f",
+    "storage_bucket": "dynamic-pdf-viewer-1be5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660633773180:android:116fc96773bfac01f7d5f9",
+        "android_client_info": {
+          "package_name": "com.abhishek.dynamicpdfviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660633773180-af79a5263pnjpol4mji2camhdkr4fut7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-VCmXoi_mw7qL4WsIyKaSgRc1JTb_Sks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660633773180-af79a5263pnjpol4mji2camhdkr4fut7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
